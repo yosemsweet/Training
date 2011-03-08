@@ -47,3 +47,8 @@ In almost all cases the best way to start with this is to make an educated guess
 
 Are these really my target customer segments?
 Probably not. But they'll serve a purpose and you'll never figure out your real segments while you sit in your building. You just need to define something good enough to help you get out of the building and start talking to people. After that you can revisit this entire process. Continuous iteration will help you get to a real set of customer segments with a real set of problems much faster than if you take a stab at it, build features, launch, wait for feedback, wait for feedback some more, go back to your boss for more budget, and then for feedback even more.
+
+What happens next?
+As you find your real customers and customer segments you should be constantly learning. You'll be learning what they want, who they are, what problems they have that are worth solving, and how you can solve them in a way that they love. You'll also be learning how wrong you were at the start. This is natural and good. You thought your targets were mass market. You were sure everyone who searches had a problem that you could solve. In fact if you tried to target everyone, you would target no one. Now that you've gone through a process of finding and refining who your customers actually are you target them and them alone.
+
+First though you need to make sure you still have a viable business model. Now that you know who your customers are and the problems you can solve for them, are you still in the sweet spot? If so, move on to looking at how you can reach customers.

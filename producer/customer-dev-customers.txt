@@ -1,0 +1,49 @@
+Customer Development - Your Customers
+
+Finding your customer segments:
+A key aspect of Customer Development is finding out who your customers are. This is an iterative process wherein you determine exactly who it is that sits in the sweet spot of people who's problems you can solve, people willing to pay you money to solve their problem, and people you can reach. If this sweet spot is shaped such that the potential cost of reaching these customers and solving their problems is less than what they are willing to pay for it you have a viable business opportunity.
+
+What is a customer?
+A customer is someone who is willing to make an investment of money in your product because it solves a problem of theirs. 
+
+A customer is:
+* using your product actively to solve a problem of theirs
+
+If you can't monetize a customer's time with your product a customer is:
+* paying for use of your product
+
+A customer is not:
+* someone willing to use your product if only you added feature x
+* someone willing to invest money in your company
+* someone you have to pay or invest time in to get their feedback
+
+
+Why do we need to find a customer?
+Finding a customer allows you to validate assumptions against reality. Until you have a customer to talk to, all you are doing is building for yourself. And while that is often very satisfying, it isn't a good way to build a business. We use customers to do the following (in priority):
+1) Learn what real problems are
+2) Learn if those problems are worth solving
+3) Learn what the customer's context is when dealing with the problem (this help us design a product with low barriers to entry that fits with what our customers do)
+4) Learn what the customer currently does to solve the problem (this is our competition - can we be better than them?)
+
+Why do we need to find many customers?
+While finding a singular customer is great, it isn't very hard. But if you do that you might as well just be a butler or a servant. Singular customers don't scale. And unless your one customer is a billionaire, you can't build a billion dollar company off them. Once you start finding multiple customers you'll be faced with many challenges. Often times your customers won't agree. This leads to finding your customer segments.
+
+
+------ Custom Segment Aside -----------
+What is a customer segment?
+A customer segment is a way of grouping a set of customers by one or more shared characteristics. You can build customer segments in many different ways depending on what your business focus is. In some cases your segments may be defined demographically, in some based off interests, in some functionally, in some based of shared problems. You'll be tempted to try and use a combination of everything to define your segments. Avoid this temptation as long as possible. Prematurely combining different forms of segments can make it hard to see the big picture or emerging patterns as you go through the customer development process.
+
+The granularity of your customer segments depends on what you are trying to accomplish. Make them as granular as needed to be useful but no more granular than that. If you are looking at building a high level business model your customer segments map exactly to your potential market segments. This will include segments as broad as Mass Market or People with Computers. If however you are starting to get down into the nitty gritty of actually building something specific you need customer segments better defined, for example if you need to validate a vision of extending your pastry making site to include cupcakes your customer segments will be much more tightly defined, likely something along the lines of Cupcake Professionals, Amateur Bakers, and Snack-a-holics.
+
+The characteristics and details of a customer segment are really defined by utility. Our goal with customer segments is to establish 3 things:
+First - how much is this customer segment willing to pay for our solution to their problems?
+Second - can we reach enough of the customer segment for the business model to make financial sense?
+Third - is the customer segment large enough to scale our business to the level we want it?
+
+------- End Customer Segment Aside ---------
+
+How to start finding your customer segments?
+In almost all cases the best way to start with this is to make an educated guess. If you already have customers, this is pretty easy. Take a look at them, break down their attributes and stick them on a wall. Now perform a sorting and grouping exercise until people start to fall into distinct categories that are useful to you. Remember, you're going to be targeting these customer segments so if the definition of the segment doesn't mean anything to you now, it won't help you in the future. If you don't already have customers than I'd recommend going through a mental exercise thinking about who you would market your product to. How would you market it? You must think someone wants it!!! Use the details that come out to flesh out your first hypothesis at your customer segments.
+
+Are these really my target customer segments?
+Probably not. But they'll serve a purpose and you'll never figure out your real segments while you sit in your building. You just need to define something good enough to help you get out of the building and start talking to people. After that you can revisit this entire process. Continuous iteration will help you get to a real set of customer segments with a real set of problems much faster than if you take a stab at it, build features, launch, wait for feedback, wait for feedback some more, go back to your boss for more budget, and then for feedback even more.

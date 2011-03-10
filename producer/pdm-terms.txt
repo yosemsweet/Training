@@ -1,0 +1,9 @@
+NPV - Net Present Value. This represents how much money a project is worth in today's dollars. Effectively this takes into account a discount rate and a series of cash flow transactions to figure out how much an investment is worth in money today. The key here is the discount rate. 
+
+Discount Rate - The rate you assume you could get back on your cash investment if you did nothing. 
+
+Cost structure - variable costs, fixed costs - fixed costs are costs you have to pay regardless of the quantity of goods you produce. Variable costs change according to your productivity. For Suite101 we generally prefer fixed costs over variable costs because variable costs eat more quickly into our margin.
+
+Revenue, margin, cash flow
+
+CONR - Cost of Net Revenue

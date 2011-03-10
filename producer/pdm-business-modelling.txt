@@ -1,0 +1,53 @@
+# Business Modelling
+
+## What is Business Modelling? (It ain't a business model)
+
+Business modelling is a tool wherein you create a simulation of your business drivers to represent how fluctuations in drivers cause changes in your revenue and cost model. Often times this will be built out in a spreadsheet and typically allows you to simulate how investment in changing a key driver will be reflected on the bottom line.
+
+Let's take a quick example around a lemonade stand:
+
+I like to start by modelling revenue
+
+* At the top of your model is foot traffic - how many people are walking by your stand.
+* Next you have conversion rate - what percentage of people who walk by actually purchase a glass of lemonade?
+* Don't forget about price - how much do you charge for the lemonade?
+* Multiply it all together and you have your revenue
+
+But you also need to model costs - we typically break these down into indirect and direct costs (also often called fixed and variable - these aren't quite the same, but I'm not an accountant so I don't worry about that)
+
+Fixed costs
+
+* Rent for your stand  
+* Salary for little Jimmy, your stand operator  
+* Whatever you spent on your lemonade punch bowl  
+
+Variable costs
+
+* Cost of a cup  
+* Cost of lemons used to produce lemonade  
+* Cost of sugar that goes into lemonade  
+
+Essentially fixed costs are used when dealing with costs that aren't directly related to the amount of lemonade you sell, variable costs are directly related. 
+
+
+## Why model your business?
+
+You should model your business so you can make smart decisions about when to invest in what functionality and how much you can expect it to pay off. You'll need to make these decisions anyway, having a simple model available to examine what you can expect will make a big difference in the quality of your decisions.
+
+You'll also run into times when it is difficult to identify which of many options is best for the organization via gut feel. Even a back of the napkin calculation can get very difficult when you take churn into account for example. By clearly modelling your business you'll be able to spend less time analyzing and more time doing.
+
+Finally modelling your business helps you focus on specific KPIs to improve. When you look at a project you can immediately ask yourself, will this improve our any of our core KPIs? Will it do so by more than the net present value of the project? If not, forget it.
+
+## When do you do business modelling?
+
+All the time - sometimes it is a back of the napkin procedure. Sometimes much deeper. Remember that business modelling is a tool, so you don't need to model every last detail in all situations, and you should never confuse successfully modelling a business with actually changing a business, but you should always have at least a simplified model on hand.
+
+
+## Objections to business modelling?
+
+In my experience there are two main objections to business modelling:
+
+1. It takes too much time
+1. It doesn't deliver value
+
+These can both be true if you let them. Again business modelling is only a tool, and like all tools it very much matters what you do with it.
